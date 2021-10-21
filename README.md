@@ -1,1 +1,1 @@
-# path-store
+# bricks-path-store
