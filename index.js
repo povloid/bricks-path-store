@@ -20,7 +20,7 @@ const { assign_, get, set_, thread, update_ } = require('bricks-fp')
 //     return m
 // }
 
-export class PathStore {
+export default class PathStore {
   constructor(initState) {
     this.state = initState
     this.listeners = {}
