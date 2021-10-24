@@ -1,4 +1,4 @@
-const { assign_, get, set_, thread, update_ } = require('bricks-fp')
+import { assign_, get, set_, thread, update_ } from 'bricks-fp'
 
 // const inc = (m) => {
 //     m.i += 1
