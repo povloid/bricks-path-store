@@ -1,8 +1,8 @@
 {
     "name": "bricks-path-store",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Path Store Data component",
-    "main": "lib/bricks-path-storeo.js",
+    "main": "lib/bricks-path-store.js",
     "repository": "git@github.com:povloid/bricks-path-store.git",
     "author": "Pavel Kopychenko <t34box@gmail.com>",
     "license": "MIT",
